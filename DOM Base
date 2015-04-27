@@ -1,0 +1,26 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    Editable table
+  </title>
+</head>
+
+<body>
+
+  <h1>Edit Table</h1>
+  <table>
+    <tr>
+      <th>Lift</th>
+      <th>Reps</th>
+    </tr>
+    <tr>
+      <td>Deadlift</td>
+      <td>7</td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
